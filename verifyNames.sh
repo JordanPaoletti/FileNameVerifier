@@ -96,7 +96,7 @@ echo ""
 echo "Extra Files =============================="
 
 
-for file in $missing
+for file in $extra
 do 
     echo "$file"
 done
